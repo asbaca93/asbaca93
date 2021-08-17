@@ -21,7 +21,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=asbaca93&count_private=true&show_icons=true&theme=algolia)
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=asbaca93&count_private=true&show_icons=true&theme=react)
 
 
 
